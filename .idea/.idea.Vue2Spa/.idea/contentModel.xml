@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".babelrc" t="Include" />
+      <e p=".editorconfig" t="Include" />
+      <e p=".eslintrc.js" t="Include" />
+      <e p=".gitattributes" t="Include" />
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ClientApp" t="Include">
+        <e p="app.js" t="Include" />
+        <e p="boot-app.js" t="Include" />
+        <e p="boot-server.js" t="Include" />
+        <e p="components" t="Include">
+          <e p="app-root.vue" t="Include" />
+          <e p="counter-example.vue" t="Include" />
+          <e p="fetch-data.vue" t="Include" />
+          <e p="home-page.vue" t="Include" />
+          <e p="nav-menu.vue" t="Include" />
+          <e p="station-data.vue" t="Include" />
+        </e>
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="icons.js" t="Include" />
+        <e p="router" t="Include">
+          <e p="index.js" t="Include" />
+          <e p="routes.js" t="Include" />
+        </e>
+        <e p="store" t="Include">
+          <e p="api.js" t="Include" />
+          <e p="index.js" t="Include" />
+        </e>
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+        <e p="StationController.cs" t="Include" />
+      </e>
+      <e p="global.json" t="Include" />
+      <e p="LICENSE" t="Include" />
+      <e p="LICENSE.md" t="Include" />
+      <e p="Models" t="Include">
+        <e p="Position.cs" t="Include" />
+        <e p="StationData.cs" t="Include" />
+        <e p="StationModel.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="Vue2Spa.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Providers" t="Include">
+        <e p="IStationService.cs" t="Include" />
+        <e p="StationService.cs" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="Station" t="Include">
+        <e p="GetStation.cs" t="Include" />
+        <e p="IGetStation.cs" t="Include" />
+      </e>
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="Vue2Spa.csproj" t="IncludeRecursive" />
+      <e p="Vue2Spa.sln" t="IncludeFlat" />
+      <e p="web.config" t="Include" />
+      <e p="webpack.config.js" t="Include" />
+      <e p="webpack.config.vendor.js" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="dist" t="Include">
+          <e p="main.js" t="Include" />
+          <e p="main.js.map" t="Include" />
+          <e p="vendor-manifest.json" t="Include" />
+          <e p="vendor.css" t="Include" />
+          <e p="vendor.js" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Vue2Spa.355602115.00" t="ExcludeRecursive" />
+  </component>
+</project>
